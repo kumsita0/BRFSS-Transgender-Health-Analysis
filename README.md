@@ -6,8 +6,6 @@ Analysis of the 2014 BRFSS transgender health dataset using R, including descrip
 
 # BRFSS 2014 Transgender Health Analysis
 
----
-
 ## Project Overview
 
 This project analyzes the 2014 Behavioral Risk Factor Surveillance System (BRFSS) dataset to describe demographic characteristics of transgender participants using R.
